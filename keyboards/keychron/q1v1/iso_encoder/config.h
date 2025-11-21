@@ -18,3 +18,6 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 44
+
+/* JH: Try to resolve issue with phantom keys */
+#define DEBOUNCE 10
